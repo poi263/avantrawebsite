@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avantrawebsite/static/css/main.4a55e7b7.css",
+    "main.js": "/avantrawebsite/static/js/main.f7a484c6.js",
+    "static/js/787.134a2dcf.chunk.js": "/avantrawebsite/static/js/787.134a2dcf.chunk.js",
+    "index.html": "/avantrawebsite/index.html",
+    "main.4a55e7b7.css.map": "/avantrawebsite/static/css/main.4a55e7b7.css.map",
+    "main.f7a484c6.js.map": "/avantrawebsite/static/js/main.f7a484c6.js.map",
+    "787.134a2dcf.chunk.js.map": "/avantrawebsite/static/js/787.134a2dcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a55e7b7.css",
+    "static/js/main.f7a484c6.js"
+  ]
+}
